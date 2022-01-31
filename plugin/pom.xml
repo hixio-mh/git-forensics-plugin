@@ -5,7 +5,7 @@
     <groupId>org.jvnet.hudson.plugins</groupId>
     <artifactId>analysis-pom</artifactId>
     <version>4.7.0</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>git-forensics</artifactId>
@@ -36,7 +36,7 @@
     <git-client.version>3.5.1</git-client.version>
     <scm-api.version>2.6.4</scm-api.version>
     <j2html.version>1.4.0</j2html.version>
-    <streamex.version>0.7.3</streamex.version>
+    <streamex.version>0.8.1</streamex.version>
 
   </properties>
 
