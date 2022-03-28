@@ -139,7 +139,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>matrix-project</artifactId>
-      <version>1.18</version>
+      <version>759.vf93284079b_4e</version>
       <scope>test</scope>
     </dependency>
 
